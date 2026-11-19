@@ -1,18 +1,18 @@
 <!-- Troque SEU_USUARIO pelo seu usuário do GitHub em todo este arquivo -->
 
-<h1 align="center">Oi, eu sou o SEU NOME 👋</h1>
+<!--h1 align="center">Oi, eu sou o SEU NOME 👋</h1>
 <p align="center">
   Dev que transforma café em código e bug em "feature não documentada".
-</p>
+</p-->
 
 <p align="center">
-  <a href="https://thegitcity.com/SEU_USUARIO">
+  <a href="https://thegitcity.com/alisonmdeliberali">
     <img src="./painel.svg" alt="Cidade animada dos meus commits, construída por agentes, e diagnóstico bem-humorado do meu perfil" width="100%">
   </a>
 </p>
 
 <p align="center">
-  <a href="https://thegitcity.com/SEU_USUARIO">
+  <a href="https://thegitcity.com/alisonmdeliberali">
     <img src="https://img.shields.io/badge/🏙️_Visite_meu_prédio-na_Git_City-2F6FEB?style=for-the-badge" alt="Visite meu prédio na Git City">
   </a>
 </p>
