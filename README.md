@@ -17,7 +17,7 @@
   </a>
 </p>
 
-### 🧠 Sobre mim
+<!--### 🧠 Sobre mim
 
 ```python
 class Eu:
@@ -26,17 +26,17 @@ class Eu:
     pergunte_sobre = ["seu assunto favorito"]
     fato_aleatorio = "já resolvi um bug só explicando ele pro patinho de borracha 🦆"
 ```
-
+-->
 ### 🔥 Constância
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=SEU_USUARIO&locale=pt_BR&hide_border=true" alt="Sequência de contribuições" />
+  <img src="https://streak-stats.demolab.com?user=alisonmdeliberali&locale=pt_BR&hide_border=true" alt="Sequência de contribuições" />
 </p>
 
 ### 📈 Gráfico de atividade
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SEU_USUARIO&hide_border=true&area=true" alt="Gráfico de contribuições" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=alisonmdeliberali&hide_border=true&area=true" alt="Gráfico de contribuições" width="100%" />
 </p>
 
-<p align="center"><sub>Painel atualizado todo dia por um robô dedicado e levemente sarcástico 🤖</sub></p>
+<p align="center"><sub>Painel atualizado todo dia por um robô dedicado e revoltado 🤖</sub></p>
