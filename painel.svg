@@ -1,0 +1,403 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="840" height="746" viewBox="0 0 840 746" role="img" aria-label="Diagnóstico do perfil de alisonmdeliberali">
+<style>
+  :root{--fundo:#F3F6FD;--cartao:#FFFFFF;--tinta:#1B2440;--suave:#5C6888;--linha:#DCE3F2;--trilho:#E8EDF8}
+  @media (prefers-color-scheme: dark){:root{--fundo:#0F1730;--cartao:#172142;--tinta:#E6ECFA;--suave:#9AA7C7;--linha:#26335C;--trilho:#22305A}}
+  text{font-family:'Segoe UI',Ubuntu,'Helvetica Neue',Arial,sans-serif;fill:var(--tinta)}
+  .suave{fill:var(--suave)} .t{font-size:13px} .p{font-size:12px}
+  .valor{font-size:20px;font-weight:700} .rotulo{font-size:12px;fill:var(--suave)}
+  :root{--ceu:#DCE8FF;--chao:#C3D1EE;--faixa:#FFFFFF;--astro:#FFC94D;--estrelas:0;--predio:#A9BCE4;--lado:#8599C7;--teto:#C7D5F1;--janela:#FFE08A;--janela-off:#8DA0CC}
+  @media (prefers-color-scheme: dark){:root{--ceu:#0A1330;--chao:#131D3B;--faixa:#2A3866;--astro:#E9EEF9;--estrelas:1;--predio:#22305C;--lado:#18234A;--teto:#30427A;--janela:#FFD66B;--janela-off:#1A2650}}
+  .titulo{font-size:24px;font-weight:700} .persona{font-size:19px;font-weight:700}
+  .barra{animation:cresce 1.2s ease-out both;transform-box:fill-box;transform-origin:left}
+  @keyframes cresce{from{transform:scaleX(0)}}
+  @media (prefers-reduced-motion: reduce){*{animation:none!important}}
+</style>
+<rect width="840" height="746" rx="16" style="fill:var(--fundo)"/>
+<text x="32" y="50" class="titulo">Diagnóstico de Alison M Deliberali</text>
+<text x="32" y="74" class="p suave">Laudo emitido em 19/11/2026 às 05h13 por um robô que não toma café</text>
+<style>
+  .estrela{fill:#fff;animation:brilho 3s ease-in-out infinite}
+  @keyframes brilho{0%,100%{opacity:.2}50%{opacity:1}}
+  .janela{fill:var(--janela);animation:luz 5s ease-in-out infinite}
+  .apagada{fill:var(--janela-off)}
+  @keyframes luz{0%,100%{opacity:.25}45%,60%{opacity:1}}
+  .flutua{animation:flutua 1.6s ease-in-out infinite}
+  @keyframes flutua{0%,100%{transform:translateY(0)}50%{transform:translateY(-3px)}}
+  .chama{animation:chama .25s steps(2) infinite}
+  @keyframes chama{50%{transform:scaleY(.55)}}
+  .chama{transform-box:fill-box;transform-origin:top}
+  .olho{animation:pisca 4s infinite}
+  .olho{transform-box:fill-box;transform-origin:center}
+  @keyframes pisca{0%,92%,100%{transform:scaleY(1)}95%{transform:scaleY(.1)}}
+  .antena{animation:antena 1.2s ease-in-out infinite}
+  @keyframes antena{50%{fill:#E5534B}}
+  .farol{animation:antena 1s steps(2) infinite}
+  .obra{transform-box:fill-box;transform-origin:bottom;animation:sobe 9s ease-in-out infinite}
+  @keyframes sobe{0%{transform:scaleY(.82)}55%,100%{transform:scaleY(1)}}
+  .laser{animation:laser 2s ease-in-out infinite}
+  @keyframes laser{0%,100%{opacity:.15}50%{opacity:.6}}
+
+@keyframes carro{from{transform:translateX(-40px)}to{transform:translateX(816px)}}
+@keyframes entrega{0%{transform:translate(-40px,30px)}40%,58%{transform:translate(719px,-4px)}100%{transform:translate(816px,20px)}}
+  @keyframes bloco{0%{transform:translate(-40px,48px);opacity:1}40%{transform:translate(719px,14px);opacity:1}
+  52%{transform:translate(719px,46px);opacity:1}58%,100%{transform:translate(719px,46px);opacity:0}}
+@keyframes ronda{0%,100%{transform:translate(60px,96px)}50%{transform:translate(481px,96px)}}
+@keyframes teste{0%,100%{transform:translate(666px,118px)}50%{transform:translate(626px,104px)}}</style>
+<g transform="translate(32,96)"><clipPath id="recorte"><rect width="776" height="214" rx="12"/></clipPath>
+<g clip-path="url(#recorte)">
+<rect width="776" height="214" style="fill:var(--ceu)"/>
+<g style="opacity:var(--estrelas)">
+<circle class="estrela" cx="656" cy="99" r="1" style="animation-delay:0.3s"/>
+<circle class="estrela" cx="401" cy="102" r="0.7" style="animation-delay:0.5s"/>
+<circle class="estrela" cx="660" cy="80" r="1" style="animation-delay:2.8s"/>
+<circle class="estrela" cx="306" cy="79" r="1.4" style="animation-delay:3.0s"/>
+<circle class="estrela" cx="492" cy="41" r="0.7" style="animation-delay:2.9s"/>
+<circle class="estrela" cx="62" cy="51" r="1.4" style="animation-delay:0.3s"/>
+<circle class="estrela" cx="617" cy="73" r="1" style="animation-delay:0.4s"/>
+<circle class="estrela" cx="635" cy="57" r="1.4" style="animation-delay:2.0s"/>
+<circle class="estrela" cx="360" cy="104" r="1.4" style="animation-delay:0.6s"/>
+<circle class="estrela" cx="204" cy="108" r="1.4" style="animation-delay:1.5s"/>
+<circle class="estrela" cx="735" cy="78" r="1.4" style="animation-delay:0.4s"/>
+<circle class="estrela" cx="664" cy="62" r="1" style="animation-delay:0.6s"/>
+<circle class="estrela" cx="146" cy="80" r="1.4" style="animation-delay:2.9s"/>
+<circle class="estrela" cx="316" cy="58" r="0.7" style="animation-delay:0.6s"/>
+<circle class="estrela" cx="81" cy="70" r="0.7" style="animation-delay:0.8s"/>
+<circle class="estrela" cx="592" cy="108" r="0.7" style="animation-delay:2.2s"/>
+<circle class="estrela" cx="592" cy="90" r="1.4" style="animation-delay:0.7s"/>
+<circle class="estrela" cx="749" cy="50" r="0.7" style="animation-delay:3.0s"/>
+<circle class="estrela" cx="764" cy="89" r="1" style="animation-delay:2.5s"/>
+<circle class="estrela" cx="352" cy="54" r="0.7" style="animation-delay:1.8s"/>
+<circle class="estrela" cx="194" cy="88" r="0.7" style="animation-delay:1.1s"/>
+<circle class="estrela" cx="625" cy="83" r="0.7" style="animation-delay:0.9s"/>
+<circle class="estrela" cx="436" cy="58" r="0.7" style="animation-delay:1.2s"/>
+<circle class="estrela" cx="43" cy="43" r="1.4" style="animation-delay:0.3s"/>
+<circle class="estrela" cx="707" cy="95" r="1.4" style="animation-delay:0.7s"/>
+<circle class="estrela" cx="62" cy="88" r="1.4" style="animation-delay:1.7s"/>
+<circle class="estrela" cx="703" cy="80" r="0.7" style="animation-delay:0.5s"/>
+<circle class="estrela" cx="16" cy="86" r="1.4" style="animation-delay:2.6s"/>
+<circle class="estrela" cx="485" cy="83" r="1" style="animation-delay:1.2s"/>
+<circle class="estrela" cx="488" cy="95" r="1" style="animation-delay:0.2s"/>
+</g>
+<circle cx="559" cy="30" r="12" style="fill:var(--astro)"/>
+<rect y="176" width="776" height="38" style="fill:var(--chao)"/>
+<line x1="0" y1="196" x2="776" y2="196" style="stroke:var(--faixa);stroke-width:2;stroke-dasharray:14 10"/>
+<g class="">
+<polygon points="70.74125,155.01149425287358 80.316375,149.2664192528736 80.316375,170.25492500000001 70.74125,176" style="fill:var(--lado)"/>
+<polygon points="43.38375,155.01149425287358 52.958875,149.2664192528736 80.316375,149.2664192528736 70.74125,155.01149425287358" style="fill:var(--teto)"/>
+<rect x="43.4" y="155.0" width="27.4" height="21.0" style="fill:var(--predio)"/>
+<rect class="janela" x="45.4" y="162.0" width="5" height="6" rx="1" style="animation-delay:3.1s;animation-duration:3.4s"/>
+<rect class="apagada" x="54.6" y="162.0" width="5" height="6" rx="1"/>
+<rect class="janela" x="63.7" y="162.0" width="5" height="6" rx="1" style="animation-delay:2.1s;animation-duration:3.6s"/>
+</g>
+<g class="">
+<polygon points="114.86625000000001,158.0 124.44137500000001,152.25492500000001 124.44137500000001,170.25492500000001 114.86625000000001,176" style="fill:var(--lado)"/>
+<polygon points="87.50875,158.0 97.083875,152.25492500000001 124.44137500000001,152.25492500000001 114.86625000000001,158.0" style="fill:var(--teto)"/>
+<rect x="87.5" y="158.0" width="27.4" height="18.0" style="fill:var(--predio)"/>
+<rect class="janela" x="89.6" y="165.0" width="5" height="6" rx="1" style="animation-delay:2.9s;animation-duration:3.8s"/>
+<rect class="janela" x="98.7" y="165.0" width="5" height="6" rx="1" style="animation-delay:1.4s;animation-duration:4.4s"/>
+<rect class="janela" x="107.8" y="165.0" width="5" height="6" rx="1" style="animation-delay:2.8s;animation-duration:7.5s"/>
+</g>
+<g class="">
+<polygon points="158.99124999999998,158.0 168.56637499999997,152.25492500000001 168.56637499999997,170.25492500000001 158.99124999999998,176" style="fill:var(--lado)"/>
+<polygon points="131.63375,158.0 141.20887499999998,152.25492500000001 168.56637499999997,152.25492500000001 158.99124999999998,158.0" style="fill:var(--teto)"/>
+<rect x="131.6" y="158.0" width="27.4" height="18.0" style="fill:var(--predio)"/>
+<rect class="apagada" x="133.7" y="165.0" width="5" height="6" rx="1"/>
+<rect class="janela" x="142.8" y="165.0" width="5" height="6" rx="1" style="animation-delay:3.9s;animation-duration:3.0s"/>
+<rect class="janela" x="151.9" y="165.0" width="5" height="6" rx="1" style="animation-delay:0.7s;animation-duration:3.6s"/>
+</g>
+<g class="">
+<polygon points="203.11624999999998,158.0 212.69137499999997,152.25492500000001 212.69137499999997,170.25492500000001 203.11624999999998,176" style="fill:var(--lado)"/>
+<polygon points="175.75875,158.0 185.33387499999998,152.25492500000001 212.69137499999997,152.25492500000001 203.11624999999998,158.0" style="fill:var(--teto)"/>
+<rect x="175.8" y="158.0" width="27.4" height="18.0" style="fill:var(--predio)"/>
+<rect class="janela" x="177.8" y="165.0" width="5" height="6" rx="1" style="animation-delay:0.6s;animation-duration:4.4s"/>
+<rect class="janela" x="186.9" y="165.0" width="5" height="6" rx="1" style="animation-delay:3.6s;animation-duration:7.6s"/>
+<rect class="janela" x="196.1" y="165.0" width="5" height="6" rx="1" style="animation-delay:1.2s;animation-duration:6.0s"/>
+</g>
+<g class="">
+<polygon points="247.24124999999998,158.0 256.816375,152.25492500000001 256.816375,170.25492500000001 247.24124999999998,176" style="fill:var(--lado)"/>
+<polygon points="219.88375,158.0 229.45887499999998,152.25492500000001 256.816375,152.25492500000001 247.24124999999998,158.0" style="fill:var(--teto)"/>
+<rect x="219.9" y="158.0" width="27.4" height="18.0" style="fill:var(--predio)"/>
+<rect class="janela" x="221.9" y="165.0" width="5" height="6" rx="1" style="animation-delay:2.4s;animation-duration:5.9s"/>
+<rect class="janela" x="231.1" y="165.0" width="5" height="6" rx="1" style="animation-delay:0.7s;animation-duration:3.5s"/>
+<rect class="apagada" x="240.2" y="165.0" width="5" height="6" rx="1"/>
+</g>
+<g class="">
+<polygon points="291.36625000000004,158.0 300.94137500000005,152.25492500000001 300.94137500000005,170.25492500000001 291.36625000000004,176" style="fill:var(--lado)"/>
+<polygon points="264.00875,158.0 273.58387500000003,152.25492500000001 300.94137500000005,152.25492500000001 291.36625000000004,158.0" style="fill:var(--teto)"/>
+<rect x="264.0" y="158.0" width="27.4" height="18.0" style="fill:var(--predio)"/>
+<rect class="apagada" x="266.1" y="165.0" width="5" height="6" rx="1"/>
+<rect class="janela" x="275.2" y="165.0" width="5" height="6" rx="1" style="animation-delay:4.0s;animation-duration:6.1s"/>
+<rect class="janela" x="284.3" y="165.0" width="5" height="6" rx="1" style="animation-delay:3.0s;animation-duration:5.5s"/>
+</g>
+<g class="">
+<polygon points="335.49125000000004,158.0 345.06637500000005,152.25492500000001 345.06637500000005,170.25492500000001 335.49125000000004,176" style="fill:var(--lado)"/>
+<polygon points="308.13375,158.0 317.70887500000003,152.25492500000001 345.06637500000005,152.25492500000001 335.49125000000004,158.0" style="fill:var(--teto)"/>
+<rect x="308.1" y="158.0" width="27.4" height="18.0" style="fill:var(--predio)"/>
+<rect class="apagada" x="310.2" y="165.0" width="5" height="6" rx="1"/>
+<rect class="apagada" x="319.3" y="165.0" width="5" height="6" rx="1"/>
+<rect class="janela" x="328.4" y="165.0" width="5" height="6" rx="1" style="animation-delay:0.2s;animation-duration:5.1s"/>
+</g>
+<g class="">
+<polygon points="379.61625000000004,158.0 389.19137500000005,152.25492500000001 389.19137500000005,170.25492500000001 379.61625000000004,176" style="fill:var(--lado)"/>
+<polygon points="352.25875,158.0 361.83387500000003,152.25492500000001 389.19137500000005,152.25492500000001 379.61625000000004,158.0" style="fill:var(--teto)"/>
+<rect x="352.3" y="158.0" width="27.4" height="18.0" style="fill:var(--predio)"/>
+<rect class="janela" x="354.3" y="165.0" width="5" height="6" rx="1" style="animation-delay:4.2s;animation-duration:6.0s"/>
+<rect class="apagada" x="363.4" y="165.0" width="5" height="6" rx="1"/>
+<rect class="janela" x="372.6" y="165.0" width="5" height="6" rx="1" style="animation-delay:0.0s;animation-duration:6.6s"/>
+</g>
+<g class="">
+<polygon points="423.74125000000004,152.6206896551724 433.31637500000005,146.87561465517243 433.31637500000005,170.25492500000001 423.74125000000004,176" style="fill:var(--lado)"/>
+<polygon points="396.38375,152.6206896551724 405.95887500000003,146.87561465517243 433.31637500000005,146.87561465517243 423.74125000000004,152.6206896551724" style="fill:var(--teto)"/>
+<rect x="396.4" y="152.6" width="27.4" height="23.4" style="fill:var(--predio)"/>
+<rect class="janela" x="398.4" y="159.6" width="5" height="6" rx="1" style="animation-delay:4.3s;animation-duration:3.6s"/>
+<rect class="apagada" x="407.6" y="159.6" width="5" height="6" rx="1"/>
+<rect class="janela" x="416.7" y="159.6" width="5" height="6" rx="1" style="animation-delay:4.8s;animation-duration:3.4s"/>
+</g>
+<g class="">
+<polygon points="467.86625000000004,158.0 477.44137500000005,152.25492500000001 477.44137500000005,170.25492500000001 467.86625000000004,176" style="fill:var(--lado)"/>
+<polygon points="440.50875,158.0 450.08387500000003,152.25492500000001 477.44137500000005,152.25492500000001 467.86625000000004,158.0" style="fill:var(--teto)"/>
+<rect x="440.5" y="158.0" width="27.4" height="18.0" style="fill:var(--predio)"/>
+<rect class="janela" x="442.6" y="165.0" width="5" height="6" rx="1" style="animation-delay:4.6s;animation-duration:4.8s"/>
+<rect class="janela" x="451.7" y="165.0" width="5" height="6" rx="1" style="animation-delay:4.2s;animation-duration:5.3s"/>
+<rect class="apagada" x="460.8" y="165.0" width="5" height="6" rx="1"/>
+</g>
+<g class="">
+<polygon points="511.99125000000004,158.0 521.566375,152.25492500000001 521.566375,170.25492500000001 511.99125000000004,176" style="fill:var(--lado)"/>
+<polygon points="484.63375,158.0 494.20887500000003,152.25492500000001 521.566375,152.25492500000001 511.99125000000004,158.0" style="fill:var(--teto)"/>
+<rect x="484.6" y="158.0" width="27.4" height="18.0" style="fill:var(--predio)"/>
+<rect class="janela" x="486.7" y="165.0" width="5" height="6" rx="1" style="animation-delay:3.2s;animation-duration:5.6s"/>
+<rect class="apagada" x="495.8" y="165.0" width="5" height="6" rx="1"/>
+<rect class="janela" x="504.9" y="165.0" width="5" height="6" rx="1" style="animation-delay:0.6s;animation-duration:7.9s"/>
+</g>
+<g class="">
+<polygon points="556.1162499999999,135.88505747126436 565.6913749999999,130.13998247126437 565.6913749999999,170.25492500000001 556.1162499999999,176" style="fill:var(--lado)"/>
+<polygon points="528.75875,135.88505747126436 538.3338749999999,130.13998247126437 565.6913749999999,130.13998247126437 556.1162499999999,135.88505747126436" style="fill:var(--teto)"/>
+<rect x="528.8" y="135.9" width="27.4" height="40.1" style="fill:var(--predio)"/>
+<rect class="janela" x="530.8" y="142.9" width="5" height="6" rx="1" style="animation-delay:3.3s;animation-duration:5.8s"/>
+<rect class="apagada" x="539.9" y="142.9" width="5" height="6" rx="1"/>
+<rect class="apagada" x="549.1" y="142.9" width="5" height="6" rx="1"/>
+<rect class="janela" x="530.8" y="153.9" width="5" height="6" rx="1" style="animation-delay:2.3s;animation-duration:7.1s"/>
+<rect class="janela" x="539.9" y="153.9" width="5" height="6" rx="1" style="animation-delay:1.8s;animation-duration:5.0s"/>
+<rect class="janela" x="549.1" y="153.9" width="5" height="6" rx="1" style="animation-delay:1.6s;animation-duration:3.7s"/>
+<rect class="janela" x="530.8" y="164.9" width="5" height="6" rx="1" style="animation-delay:3.1s;animation-duration:6.0s"/>
+<rect class="apagada" x="539.9" y="164.9" width="5" height="6" rx="1"/>
+<rect class="apagada" x="549.1" y="164.9" width="5" height="6" rx="1"/>
+</g>
+<g class="">
+<polygon points="600.2412499999999,117.35632183908046 609.8163749999999,111.61124683908047 609.8163749999999,170.25492500000001 600.2412499999999,176" style="fill:var(--lado)"/>
+<polygon points="572.88375,117.35632183908046 582.4588749999999,111.61124683908047 609.8163749999999,111.61124683908047 600.2412499999999,117.35632183908046" style="fill:var(--teto)"/>
+<rect x="572.9" y="117.4" width="27.4" height="58.6" style="fill:var(--predio)"/>
+<rect class="janela" x="574.9" y="124.4" width="5" height="6" rx="1" style="animation-delay:1.6s;animation-duration:4.8s"/>
+<rect class="apagada" x="584.1" y="124.4" width="5" height="6" rx="1"/>
+<rect class="apagada" x="593.2" y="124.4" width="5" height="6" rx="1"/>
+<rect class="janela" x="574.9" y="135.4" width="5" height="6" rx="1" style="animation-delay:3.7s;animation-duration:7.0s"/>
+<rect class="janela" x="584.1" y="135.4" width="5" height="6" rx="1" style="animation-delay:3.9s;animation-duration:4.3s"/>
+<rect class="janela" x="593.2" y="135.4" width="5" height="6" rx="1" style="animation-delay:3.3s;animation-duration:7.3s"/>
+<rect class="janela" x="574.9" y="146.4" width="5" height="6" rx="1" style="animation-delay:0.3s;animation-duration:7.9s"/>
+<rect class="janela" x="584.1" y="146.4" width="5" height="6" rx="1" style="animation-delay:3.4s;animation-duration:3.3s"/>
+<rect class="janela" x="593.2" y="146.4" width="5" height="6" rx="1" style="animation-delay:2.4s;animation-duration:6.3s"/>
+<rect class="janela" x="574.9" y="157.4" width="5" height="6" rx="1" style="animation-delay:0.0s;animation-duration:4.5s"/>
+<rect class="janela" x="584.1" y="157.4" width="5" height="6" rx="1" style="animation-delay:0.3s;animation-duration:6.3s"/>
+<rect class="apagada" x="593.2" y="157.4" width="5" height="6" rx="1"/>
+</g>
+<g class="">
+<polygon points="644.3662499999999,69.54022988505747 653.9413749999999,63.79515488505747 653.9413749999999,170.25492500000001 644.3662499999999,176" style="fill:var(--lado)"/>
+<polygon points="617.00875,69.54022988505747 626.5838749999999,63.79515488505747 653.9413749999999,63.79515488505747 644.3662499999999,69.54022988505747" style="fill:var(--teto)"/>
+<rect x="617.0" y="69.5" width="27.4" height="106.5" style="fill:var(--predio)"/>
+<rect class="janela" x="619.1" y="76.5" width="5" height="6" rx="1" style="animation-delay:3.2s;animation-duration:7.9s"/>
+<rect class="apagada" x="628.2" y="76.5" width="5" height="6" rx="1"/>
+<rect class="apagada" x="637.3" y="76.5" width="5" height="6" rx="1"/>
+<rect class="apagada" x="619.1" y="87.5" width="5" height="6" rx="1"/>
+<rect class="janela" x="628.2" y="87.5" width="5" height="6" rx="1" style="animation-delay:1.6s;animation-duration:6.8s"/>
+<rect class="janela" x="637.3" y="87.5" width="5" height="6" rx="1" style="animation-delay:0.7s;animation-duration:8.0s"/>
+<rect class="janela" x="619.1" y="98.5" width="5" height="6" rx="1" style="animation-delay:1.1s;animation-duration:5.0s"/>
+<rect class="janela" x="628.2" y="98.5" width="5" height="6" rx="1" style="animation-delay:4.2s;animation-duration:6.9s"/>
+<rect class="janela" x="637.3" y="98.5" width="5" height="6" rx="1" style="animation-delay:4.1s;animation-duration:3.0s"/>
+<rect class="janela" x="619.1" y="109.5" width="5" height="6" rx="1" style="animation-delay:1.0s;animation-duration:6.0s"/>
+<rect class="apagada" x="628.2" y="109.5" width="5" height="6" rx="1"/>
+<rect class="apagada" x="637.3" y="109.5" width="5" height="6" rx="1"/>
+<rect class="janela" x="619.1" y="120.5" width="5" height="6" rx="1" style="animation-delay:4.8s;animation-duration:7.0s"/>
+<rect class="janela" x="628.2" y="120.5" width="5" height="6" rx="1" style="animation-delay:2.1s;animation-duration:4.5s"/>
+<rect class="apagada" x="637.3" y="120.5" width="5" height="6" rx="1"/>
+<rect class="janela" x="619.1" y="131.5" width="5" height="6" rx="1" style="animation-delay:3.6s;animation-duration:7.4s"/>
+<rect class="apagada" x="628.2" y="131.5" width="5" height="6" rx="1"/>
+<rect class="apagada" x="637.3" y="131.5" width="5" height="6" rx="1"/>
+<rect class="janela" x="619.1" y="142.5" width="5" height="6" rx="1" style="animation-delay:1.4s;animation-duration:5.5s"/>
+<rect class="janela" x="628.2" y="142.5" width="5" height="6" rx="1" style="animation-delay:0.4s;animation-duration:5.6s"/>
+<rect class="janela" x="637.3" y="142.5" width="5" height="6" rx="1" style="animation-delay:1.6s;animation-duration:5.4s"/>
+<rect class="janela" x="619.1" y="153.5" width="5" height="6" rx="1" style="animation-delay:4.5s;animation-duration:4.3s"/>
+<rect class="janela" x="628.2" y="153.5" width="5" height="6" rx="1" style="animation-delay:1.6s;animation-duration:4.2s"/>
+<rect class="janela" x="637.3" y="153.5" width="5" height="6" rx="1" style="animation-delay:2.0s;animation-duration:4.8s"/>
+<rect class="janela" x="619.1" y="164.5" width="5" height="6" rx="1" style="animation-delay:2.8s;animation-duration:7.4s"/>
+<rect class="apagada" x="628.2" y="164.5" width="5" height="6" rx="1"/>
+<rect class="janela" x="637.3" y="164.5" width="5" height="6" rx="1" style="animation-delay:3.6s;animation-duration:6.6s"/>
+</g>
+<g class="">
+<polygon points="688.4912499999999,74.32183908045977 698.0663749999999,68.57676408045977 698.0663749999999,170.25492500000001 688.4912499999999,176" style="fill:var(--lado)"/>
+<polygon points="661.13375,74.32183908045977 670.7088749999999,68.57676408045977 698.0663749999999,68.57676408045977 688.4912499999999,74.32183908045977" style="fill:var(--teto)"/>
+<rect x="661.1" y="74.3" width="27.4" height="101.7" style="fill:var(--predio)"/>
+<rect class="janela" x="663.2" y="81.3" width="5" height="6" rx="1" style="animation-delay:2.5s;animation-duration:4.8s"/>
+<rect class="janela" x="672.3" y="81.3" width="5" height="6" rx="1" style="animation-delay:2.6s;animation-duration:7.8s"/>
+<rect class="janela" x="681.4" y="81.3" width="5" height="6" rx="1" style="animation-delay:1.8s;animation-duration:6.9s"/>
+<rect class="janela" x="663.2" y="92.3" width="5" height="6" rx="1" style="animation-delay:4.4s;animation-duration:7.0s"/>
+<rect class="janela" x="672.3" y="92.3" width="5" height="6" rx="1" style="animation-delay:1.5s;animation-duration:7.9s"/>
+<rect class="apagada" x="681.4" y="92.3" width="5" height="6" rx="1"/>
+<rect class="janela" x="663.2" y="103.3" width="5" height="6" rx="1" style="animation-delay:2.5s;animation-duration:3.3s"/>
+<rect class="apagada" x="672.3" y="103.3" width="5" height="6" rx="1"/>
+<rect class="janela" x="681.4" y="103.3" width="5" height="6" rx="1" style="animation-delay:3.6s;animation-duration:4.7s"/>
+<rect class="apagada" x="663.2" y="114.3" width="5" height="6" rx="1"/>
+<rect class="apagada" x="672.3" y="114.3" width="5" height="6" rx="1"/>
+<rect class="janela" x="681.4" y="114.3" width="5" height="6" rx="1" style="animation-delay:2.8s;animation-duration:4.3s"/>
+<rect class="janela" x="663.2" y="125.3" width="5" height="6" rx="1" style="animation-delay:0.5s;animation-duration:6.5s"/>
+<rect class="janela" x="672.3" y="125.3" width="5" height="6" rx="1" style="animation-delay:1.1s;animation-duration:4.2s"/>
+<rect class="janela" x="681.4" y="125.3" width="5" height="6" rx="1" style="animation-delay:2.4s;animation-duration:5.2s"/>
+<rect class="janela" x="663.2" y="136.3" width="5" height="6" rx="1" style="animation-delay:3.2s;animation-duration:7.1s"/>
+<rect class="janela" x="672.3" y="136.3" width="5" height="6" rx="1" style="animation-delay:3.2s;animation-duration:7.5s"/>
+<rect class="janela" x="681.4" y="136.3" width="5" height="6" rx="1" style="animation-delay:0.9s;animation-duration:4.1s"/>
+<rect class="apagada" x="663.2" y="147.3" width="5" height="6" rx="1"/>
+<rect class="janela" x="672.3" y="147.3" width="5" height="6" rx="1" style="animation-delay:0.0s;animation-duration:7.3s"/>
+<rect class="janela" x="681.4" y="147.3" width="5" height="6" rx="1" style="animation-delay:2.8s;animation-duration:6.1s"/>
+<rect class="apagada" x="663.2" y="158.3" width="5" height="6" rx="1"/>
+<rect class="janela" x="672.3" y="158.3" width="5" height="6" rx="1" style="animation-delay:3.1s;animation-duration:5.8s"/>
+<rect class="apagada" x="681.4" y="158.3" width="5" height="6" rx="1"/>
+</g>
+<g class="obra">
+<polygon points="732.6162499999999,54.0 742.1913749999999,48.254925 742.1913749999999,170.25492500000001 732.6162499999999,176" style="fill:#1F55C4"/>
+<polygon points="705.25875,54.0 714.8338749999999,48.254925 742.1913749999999,48.254925 732.6162499999999,54.0" style="fill:#5A8FF2"/>
+<rect x="705.3" y="54.0" width="27.4" height="122.0" style="fill:#2F6FEB"/>
+<rect class="janela" x="707.3" y="61.0" width="5" height="6" rx="1" style="animation-delay:5.0s;animation-duration:7.7s"/>
+<rect class="janela" x="716.4" y="61.0" width="5" height="6" rx="1" style="animation-delay:1.6s;animation-duration:6.5s"/>
+<rect class="janela" x="725.6" y="61.0" width="5" height="6" rx="1" style="animation-delay:1.5s;animation-duration:5.5s"/>
+<rect class="janela" x="707.3" y="72.0" width="5" height="6" rx="1" style="animation-delay:0.0s;animation-duration:4.6s"/>
+<rect class="janela" x="716.4" y="72.0" width="5" height="6" rx="1" style="animation-delay:0.8s;animation-duration:8.0s"/>
+<rect class="janela" x="725.6" y="72.0" width="5" height="6" rx="1" style="animation-delay:3.4s;animation-duration:6.0s"/>
+<rect class="janela" x="707.3" y="83.0" width="5" height="6" rx="1" style="animation-delay:3.5s;animation-duration:3.2s"/>
+<rect class="janela" x="716.4" y="83.0" width="5" height="6" rx="1" style="animation-delay:1.9s;animation-duration:7.0s"/>
+<rect class="janela" x="725.6" y="83.0" width="5" height="6" rx="1" style="animation-delay:2.0s;animation-duration:3.0s"/>
+<rect class="janela" x="707.3" y="94.0" width="5" height="6" rx="1" style="animation-delay:1.1s;animation-duration:3.8s"/>
+<rect class="janela" x="716.4" y="94.0" width="5" height="6" rx="1" style="animation-delay:2.9s;animation-duration:4.6s"/>
+<rect class="janela" x="725.6" y="94.0" width="5" height="6" rx="1" style="animation-delay:3.8s;animation-duration:7.7s"/>
+<rect class="apagada" x="707.3" y="105.0" width="5" height="6" rx="1"/>
+<rect class="janela" x="716.4" y="105.0" width="5" height="6" rx="1" style="animation-delay:2.1s;animation-duration:3.5s"/>
+<rect class="janela" x="725.6" y="105.0" width="5" height="6" rx="1" style="animation-delay:3.2s;animation-duration:4.5s"/>
+<rect class="janela" x="707.3" y="116.0" width="5" height="6" rx="1" style="animation-delay:1.0s;animation-duration:6.6s"/>
+<rect class="janela" x="716.4" y="116.0" width="5" height="6" rx="1" style="animation-delay:2.5s;animation-duration:7.3s"/>
+<rect class="janela" x="725.6" y="116.0" width="5" height="6" rx="1" style="animation-delay:2.8s;animation-duration:4.4s"/>
+<rect class="janela" x="707.3" y="127.0" width="5" height="6" rx="1" style="animation-delay:2.0s;animation-duration:5.5s"/>
+<rect class="janela" x="716.4" y="127.0" width="5" height="6" rx="1" style="animation-delay:2.2s;animation-duration:5.1s"/>
+<rect class="apagada" x="725.6" y="127.0" width="5" height="6" rx="1"/>
+<rect class="janela" x="707.3" y="138.0" width="5" height="6" rx="1" style="animation-delay:4.5s;animation-duration:5.6s"/>
+<rect class="janela" x="716.4" y="138.0" width="5" height="6" rx="1" style="animation-delay:3.3s;animation-duration:6.8s"/>
+<rect class="janela" x="725.6" y="138.0" width="5" height="6" rx="1" style="animation-delay:0.2s;animation-duration:7.7s"/>
+<rect class="janela" x="707.3" y="149.0" width="5" height="6" rx="1" style="animation-delay:1.4s;animation-duration:4.9s"/>
+<rect class="janela" x="716.4" y="149.0" width="5" height="6" rx="1" style="animation-delay:0.7s;animation-duration:8.0s"/>
+<rect class="apagada" x="725.6" y="149.0" width="5" height="6" rx="1"/>
+<rect class="janela" x="707.3" y="160.0" width="5" height="6" rx="1" style="animation-delay:1.9s;animation-duration:7.5s"/>
+<rect class="janela" x="716.4" y="160.0" width="5" height="6" rx="1" style="animation-delay:2.8s;animation-duration:7.7s"/>
+<rect class="janela" x="725.6" y="160.0" width="5" height="6" rx="1" style="animation-delay:4.7s;animation-duration:3.2s"/>
+</g>
+<line x1="748.1913749999999" y1="176" x2="748.1913749999999" y2="20.0" style="stroke:#F2B33D;stroke-width:3"/>
+<line x1="756.1913749999999" y1="22.0" x2="695.25875" y2="22.0" style="stroke:#F2B33D;stroke-width:3"/>
+<g><line x1="709.25875" y1="22.0" x2="709.25875" y2="42.0" style="stroke:var(--tinta);stroke-width:1"/><rect x="705.25875" y="42.0" width="8" height="5" style="fill:#E5534B"/><animateTransform attributeName="transform" type="rotate" values="-10 709.25875 22.0;10 709.25875 22.0;-10 709.25875 22.0" dur="3s" repeatCount="indefinite"/></g>
+<g style="animation:carro 11s linear infinite"><rect x="0" y="185" width="22" height="8" rx="3" style="fill:#E5534B"/><rect x="5" y="181" width="11" height="6" rx="2" style="fill:#E5534B"/><circle cx="5" cy="194" r="2.5" style="fill:var(--tinta)"/><circle cx="17" cy="194" r="2.5" style="fill:var(--tinta)"/></g>
+<g style="animation:bloco 9s ease-in-out infinite"><rect x="-11" y="-7" width="22" height="13" rx="3" style="fill:#2FBF9B"/><text x="0" y="3" text-anchor="middle" style="font-size:9px;font-weight:700;fill:#0F1730">&lt;/&gt;</text></g>
+<g style="animation:entrega 9s ease-in-out infinite"><g class="flutua"><text x="0" y="-22" text-anchor="middle" style="font-size:9px;fill:var(--suave)">deploy</text>
+  <line x1="0" y1="-11" x2="0" y2="-16" style="stroke:var(--tinta);stroke-width:1.5"/>
+  <circle class="antena" cx="0" cy="-17" r="2.2" style="fill:#F2B33D"/>
+  <rect x="-10" y="-11" width="20" height="15" rx="5" style="fill:#2F6FEB"/>
+  <rect x="-7" y="-8" width="14" height="7" rx="3" style="fill:#0F1730"/>
+  <circle class="olho" cx="-3" cy="-4.5" r="1.5" style="fill:#2FBF9B"/>
+  <circle class="olho" cx="3" cy="-4.5" r="1.5" style="fill:#2FBF9B"/>
+  <path class="chama" d="M-4 4 L0 11 L4 4Z" style="fill:#F2B33D"/>
+</g></g>
+<g style="animation:ronda 16s ease-in-out infinite"><path class="laser" d="M-3 10 L-14 80 L14 80 L3 10Z" style="fill:#8B6FE8"/><g class="flutua"><text x="0" y="-22" text-anchor="middle" style="font-size:9px;fill:var(--suave)">review</text>
+  <line x1="0" y1="-11" x2="0" y2="-16" style="stroke:var(--tinta);stroke-width:1.5"/>
+  <circle class="antena" cx="0" cy="-17" r="2.2" style="fill:#F2B33D"/>
+  <rect x="-10" y="-11" width="20" height="15" rx="5" style="fill:#8B6FE8"/>
+  <rect x="-7" y="-8" width="14" height="7" rx="3" style="fill:#0F1730"/>
+  <circle class="olho" cx="-3" cy="-4.5" r="1.5" style="fill:#2FBF9B"/>
+  <circle class="olho" cx="3" cy="-4.5" r="1.5" style="fill:#2FBF9B"/>
+  <path class="chama" d="M-4 4 L0 11 L4 4Z" style="fill:#F2B33D"/>
+</g></g>
+<g style="animation:teste 7s ease-in-out infinite"><g class="flutua"><text x="0" y="-22" text-anchor="middle" style="font-size:9px;fill:var(--suave)">testes</text>
+  <line x1="0" y1="-11" x2="0" y2="-16" style="stroke:var(--tinta);stroke-width:1.5"/>
+  <circle class="antena" cx="0" cy="-17" r="2.2" style="fill:#F2B33D"/>
+  <rect x="-10" y="-11" width="20" height="15" rx="5" style="fill:#2FBF9B"/>
+  <rect x="-7" y="-8" width="14" height="7" rx="3" style="fill:#0F1730"/>
+  <circle class="olho" cx="-3" cy="-4.5" r="1.5" style="fill:#2FBF9B"/>
+  <circle class="olho" cx="3" cy="-4.5" r="1.5" style="fill:#2FBF9B"/>
+  <path class="chama" d="M-4 4 L0 11 L4 4Z" style="fill:#F2B33D"/>
+</g></g>
+<rect x="14" y="12" width="300" height="24" rx="6" style="fill:#0F1730;opacity:.92"/>
+<circle cx="26" cy="24" r="3" style="fill:#E5534B"/><circle cx="36" cy="24" r="3" style="fill:#F2B33D"/><circle cx="46" cy="24" r="3" style="fill:#2FBF9B"/>
+<clipPath id="digita0"><rect x="58" y="14" height="20" width="0"><animate attributeName="width" dur="16s" repeatCount="indefinite" keyTimes="0;0.000;0.125;0.244;0.246;1" values="0;0;227;227;0;0"/></rect></clipPath>
+<text x="60" y="28" clip-path="url(#digita0)" style="font-family:ui-monospace,Consolas,monospace;font-size:11px;fill:#C9F2E5">feat: +174 andares nesta semana</text>
+<clipPath id="digita1"><rect x="58" y="14" height="20" width="0"><animate attributeName="width" dur="16s" repeatCount="indefinite" keyTimes="0;0.250;0.375;0.494;0.496;1" values="0;0;269;269;0;0"/></rect></clipPath>
+<text x="60" y="28" clip-path="url(#digita1)" style="font-family:ui-monospace,Consolas,monospace;font-size:11px;fill:#C9F2E5">fix: janela do Python que não acendia</text>
+<clipPath id="digita2"><rect x="58" y="14" height="20" width="0"><animate attributeName="width" dur="16s" repeatCount="indefinite" keyTimes="0;0.500;0.625;0.744;0.746;1" values="0;0;269;269;0;0"/></rect></clipPath>
+<text x="60" y="28" clip-path="url(#digita2)" style="font-family:ui-monospace,Consolas,monospace;font-size:11px;fill:#C9F2E5">chore: reabastecer o café dos agentes</text>
+<clipPath id="digita3"><rect x="58" y="14" height="20" width="0"><animate attributeName="width" dur="16s" repeatCount="indefinite" keyTimes="0;0.750;0.875;0.994;0.996;1" values="0;0;360;360;0;0"/></rect></clipPath>
+<text x="60" y="28" clip-path="url(#digita3)" style="font-family:ui-monospace,Consolas,monospace;font-size:11px;fill:#C9F2E5">ci: prédio de @alisonmdeliberali passou nos testes</text>
+<text x="762" y="208" text-anchor="end" style="font-size:10px;fill:var(--suave)">Cada prédio é uma semana de contribuições desde 02/08. O azul ainda está em obra.</text>
+</g></g>
+<g transform="translate(0,234)">
+<rect x="32" y="96" width="300" height="280" rx="12" style="fill:var(--cartao);stroke:var(--linha)"/>
+<text x="52" y="150" style="font-size:40px">🕵️</text>
+<text x="52" y="188" class="persona">Dev misterioso</text>
+<text x="52" y="212" class="p suave">Atividade pública discreta. Ninguém</text>
+<text x="52" y="229" class="p suave">sabe quando você coda.</text>
+<text x="52" y="262" class="rotulo">Prescrição</text>
+<text x="52" y="282" class="p">Fazer um commit público</text>
+<text x="52" y="299" class="p">para o robô te conhecer.</text>
+<text x="52" y="330" class="rotulo">Relógio biológico (0h → 23h)</text>
+<rect x="52" y="356.0" width="8" height="2.0" rx="2" style="fill:var(--suave);opacity:0.45"/>
+<rect x="63" y="356.0" width="8" height="2.0" rx="2" style="fill:var(--suave);opacity:0.45"/>
+<rect x="74" y="356.0" width="8" height="2.0" rx="2" style="fill:var(--suave);opacity:0.45"/>
+<rect x="85" y="356.0" width="8" height="2.0" rx="2" style="fill:var(--suave);opacity:0.45"/>
+<rect x="96" y="356.0" width="8" height="2.0" rx="2" style="fill:var(--suave);opacity:0.45"/>
+<rect x="107" y="356.0" width="8" height="2.0" rx="2" style="fill:var(--suave);opacity:0.45"/>
+<rect x="118" y="356.0" width="8" height="2.0" rx="2" style="fill:var(--suave);opacity:0.45"/>
+<rect x="129" y="356.0" width="8" height="2.0" rx="2" style="fill:var(--suave);opacity:0.45"/>
+<rect x="140" y="356.0" width="8" height="2.0" rx="2" style="fill:var(--suave);opacity:0.45"/>
+<rect x="151" y="356.0" width="8" height="2.0" rx="2" style="fill:var(--suave);opacity:0.45"/>
+<rect x="162" y="356.0" width="8" height="2.0" rx="2" style="fill:var(--suave);opacity:0.45"/>
+<rect x="173" y="356.0" width="8" height="2.0" rx="2" style="fill:var(--suave);opacity:0.45"/>
+<rect x="184" y="356.0" width="8" height="2.0" rx="2" style="fill:var(--suave);opacity:0.45"/>
+<rect x="195" y="356.0" width="8" height="2.0" rx="2" style="fill:var(--suave);opacity:0.45"/>
+<rect x="206" y="356.0" width="8" height="2.0" rx="2" style="fill:var(--suave);opacity:0.45"/>
+<rect x="217" y="356.0" width="8" height="2.0" rx="2" style="fill:var(--suave);opacity:0.45"/>
+<rect x="228" y="356.0" width="8" height="2.0" rx="2" style="fill:var(--suave);opacity:0.45"/>
+<rect x="239" y="356.0" width="8" height="2.0" rx="2" style="fill:var(--suave);opacity:0.45"/>
+<rect x="250" y="356.0" width="8" height="2.0" rx="2" style="fill:var(--suave);opacity:0.45"/>
+<rect x="261" y="356.0" width="8" height="2.0" rx="2" style="fill:var(--suave);opacity:0.45"/>
+<rect x="272" y="356.0" width="8" height="2.0" rx="2" style="fill:var(--suave);opacity:0.45"/>
+<rect x="283" y="356.0" width="8" height="2.0" rx="2" style="fill:var(--suave);opacity:0.45"/>
+<rect x="294" y="356.0" width="8" height="2.0" rx="2" style="fill:var(--suave);opacity:0.45"/>
+<rect x="305" y="356.0" width="8" height="2.0" rx="2" style="fill:var(--suave);opacity:0.45"/>
+<text x="360" y="112" class="rotulo">Commits este ano</text>
+<text x="360" y="136" class="valor">13</text>
+<text x="520" y="134" class="p suave">≈ 6 cafés consumidos (ciência duvidosa).</text>
+<text x="360" y="158" class="rotulo">Sequência atual</text>
+<text x="360" y="182" class="valor">19 dias</text>
+<text x="520" y="180" class="p suave">O hábito já está criando raízes. Recorde: 19.</text>
+<text x="360" y="204" class="rotulo">Estrelas recebidas</text>
+<text x="360" y="228" class="valor">0</text>
+<text x="520" y="226" class="p suave">O céu está limpo. Por enquanto.</text>
+<text x="360" y="250" class="rotulo">Repositórios</text>
+<text x="360" y="274" class="valor">1</text>
+<text x="520" y="272" class="p suave">Cada um com sua história.</text>
+<text x="360" y="296" class="rotulo">Tempo de GitHub</text>
+<text x="360" y="320" class="valor">1 ano</text>
+<text x="520" y="318" class="p suave">A jornada só começou.</text>
+<text x="360" y="342" class="rotulo">Dia favorito</text>
+<text x="360" y="366" class="valor">quarta</text>
+<text x="520" y="364" class="p suave">Produtividade no meio da semana.</text>
+<rect x="32" y="396" width="776" height="92" rx="12" style="fill:var(--cartao);stroke:var(--linha)"/>
+<text x="52" y="428" class="t" style="font-weight:700">Linguagens mais usadas</text>
+<text x="788" y="428" class="p suave" text-anchor="end">Python: Indentação é estilo de vida.</text>
+<text x="52" y="463" class="p">Python</text>
+<rect x="190" y="454" width="546" height="10" rx="5" style="fill:var(--trilho)"/>
+<rect class="barra" style="fill:#2F6FEB;animation-delay:0.00s" x="190" y="454" width="546.0" height="10" rx="5"/>
+<text x="788" y="463" class="p suave" text-anchor="end">100.0%</text>
+</g>
+</svg>
